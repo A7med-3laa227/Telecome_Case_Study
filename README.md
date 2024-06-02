@@ -21,4 +21,16 @@ An auditing table was implemented to track essential information, such as:
 
 -Number of records rejected.
 
+#Project Values
+-Analysis Business Demands
+
+-Data Creation (Tables and Attributes)
+
+-Data Extraction and Transforming using SSIS Package
+
+-Source and Destination Error Handling
+
+-Auditing
+Refrence:
+
 -Linking the file name with the corresponding auditing information.
