@@ -21,10 +21,7 @@ Number of records rejected.
 # Project Values
 
 Analysis Business Demands
-Data Creation (Tables and Atrributes)
+Data Creation (Tables and Attributes)
 Data Extraction and Transforming using SSIS Package
 Source and Destination Error Handling
 Auditing
-Refrence:
-
--Linking the file name with the corresponding auditing information.
