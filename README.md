@@ -21,8 +21,9 @@ An auditing table was implemented to track essential information, such as:
 
 -Number of records rejected.
 
-#Project Values
--Analysis Business Demands
+# Project Values
+
+Analysis Business Demands
 
 -Data Creation (Tables and Attributes)
 
