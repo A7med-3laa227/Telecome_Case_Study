@@ -29,3 +29,9 @@ An auditing table was implemented to track essential information, such as:
 • Source and Destination Error Handling
 
 • Auditing
+
+# Control Flow
+![Screenshot 2024-06-03 015721](https://github.com/A7med-3laa227/Telecome_Case_Study/assets/86737077/0ca58cd6-3df7-4f08-b2d4-d3a995f0e4b6)
+
+# Data Flow
+![Screenshot 2024-06-03 020109](https://github.com/A7med-3laa227/Telecome_Case_Study/assets/86737077/ce1f8e34-5aba-47b2-8e43-1740ed8e35cb)
