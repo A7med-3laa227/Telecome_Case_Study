@@ -1,4 +1,4 @@
-# ETL | SSIS | Telecome_Case_Study
+# ETL | SSIS | Telecom Case Study
 ETL Telecom Case Study using SQL Server Integration Services (SSIS)
 # Project Description
 This project for a telecom company successfully addressed several specific requirements:
@@ -14,14 +14,18 @@ To maintain data integrity, a dedicated table was created in the database to cap
 
 4️⃣ Auditing
 An auditing table was implemented to track essential information, such as:
-Number of movements performed for each file.
-Number of records successfully transformed.
-Number of records rejected.
+
+• Number of movements performed for each file.
+• Number of records successfully transformed.
+• Number of records rejected.
 
 # Project Values
+• Analysis of Business Demands
 
-Analysis Business Demands
-Data Creation (Tables and Attributes)
-Data Extraction and Transforming using SSIS Package
-Source and Destination Error Handling
-Auditing
+• Data Creation (Tables and Attributes)
+
+• Data Extraction and Transformation using SSIS Package
+
+• Source and Destination Error Handling
+
+• Auditing
