@@ -16,7 +16,9 @@ To maintain data integrity, a dedicated table was created in the database to cap
 An auditing table was implemented to track essential information, such as:
 
 • Number of movements performed for each file.
+
 • Number of records successfully transformed.   
+
 • Number of records rejected.
 
 # Project Values
